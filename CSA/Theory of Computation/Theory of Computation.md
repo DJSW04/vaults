@@ -1,4 +1,4 @@
-Following and writing algorithms: an algorithm is a sequence of steps necessary to accomplish a certain task.
+>**Following and writing algorithms:** an algorithm is a sequence of steps necessary to accomplish a certain task.
 
 **Abstraction:** the process of separating ideas from reality.
 
@@ -19,6 +19,8 @@ Following and writing algorithms: an algorithm is a sequence of steps necessary 
 **Information hiding:** hiding design details behind a standard interface.
 
 **Composition:** combining simpler functions or modules to create more complex ones. It allows for modular design, code reusability, and enhances code readability. This concept is crucial in functional programming.
+
+---
 
 **Regex:**
 1. **Metacharacters**: Special characters in regex define patterns. For example, **`.`** matches any character, **``** matches zero or more occurrences, etc.
