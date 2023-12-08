@@ -13,19 +13,19 @@
 - Can be evaluated using stacks.
 - In-order traversal gives infix.
 - Post-order traversal gives a postfix.
+---
 ## **Searching Algorithms:**
-
 ### **Linear Search:**
 - O(n)
 - Sequentially checks each item until the target is found.
 - If the end is reached, the target is not in set.
-
 ### **Binary Search:**
 - O(log n)
 - Requires sorted data.
 - Compare the middle element with the target value.
 - Adjusts search area based on comparison.
 **Binary Tree Search:** Similar to binary search, conducted on a binary tree.
+---
 ## **Sorting Algorithms:**
 ### **Bubble Sort:**
 - O(n^2)

@@ -5,13 +5,16 @@
 **External Hardware** - Monitors / Keyboards / Mouse / Printers / Web Cam
 **Software** - Computer Programs (non-physical)
 
+---
 ## Classification of software
 **System Software** -System software operates, controls and maintains the computer and its components. Ex. OS, Utility Programs (Firewalls/Drivers/Virus Checkers), Libraries, Translators (Compilers/Assemblers/Interpreters)
 
 **Application Software** - Programs that complete a specific task for the user.
 Ex. Games/Browsers/Mail/IDEs/Apps
 
+---
 ## System software 
+
 **OS** - An operating system simplifies computer control for users by employing a virtual machine to conceal the system's complexity. It also oversees resource access, managing memory, scheduling processor tasks, and handling interrupts.
 
 **UP** - Utility programs perform essential housekeeping tasks in a computer system, including data backup, hard drive defragmentation (reorganizing data for faster access), data compression, and encryption
@@ -22,7 +25,7 @@ Ex. Games/Browsers/Mail/IDEs/Apps
 
 * role of the operating system is to hide the complexities of the hardware.
 * the OS handles resource management, managing hardware to allocate processors, memories and I/O devices among competing processes
-
+---
 # Classification of programming languages
 
 Programs in low-level languages are specific to the type of processor they are written for and directly affect the computer’s processor.
@@ -37,8 +40,9 @@ High-level languages, Ex. C#, Java, Pascal, Python, and VB.Net:
 
 High-level languages, unlike low-level ones, are platform-independent but require compilation or interpretation to machine code before execution. They use English instructions and mathematical symbols, making them more human-friendly and easier to debug. Built-in functions save programming time, and features like named variables enhance debuggability. Imperative high-level languages dictate task completion instructions, contrasting with declarative programming.
 
+---
+# Types of program translator
 
-#  Types of program translator
 For a computer's processor to execute a program, it must be in machine code. This requires translation of programs written in assembly language or high-level languages into machine code before execution.
 
 There are three types of program translator: **assemblers, compilers and interpreters:**
