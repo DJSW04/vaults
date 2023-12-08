@@ -38,8 +38,7 @@ Function $K \circ L$  is known as the composition of K and L
 
 ---
 
-******************************************HIGHER ORDER FUNCTIONS******************************************
-
+**HIGHER ORDER FUNCTIONS**
 - Takes a function as an argument
 - or returns a function as a result
 - or does both

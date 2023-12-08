@@ -16,11 +16,11 @@
 ---
 ## **Searching Algorithms:**
 ### **Linear Search:**
-- O(n)
+- $O(n)$
 - Sequentially checks each item until the target is found.
 - If the end is reached, the target is not in set.
 ### **Binary Search:**
-- O(log n)
+- $O(\log (n))$
 - Requires sorted data.
 - Compare the middle element with the target value.
 - Adjusts search area based on comparison.
@@ -28,10 +28,10 @@
 ---
 ## **Sorting Algorithms:**
 ### **Bubble Sort:**
-- O(n^2)
+- $O(n^2)$
 - Iteratively compares and swaps adjacent elements.
 ### **Merge Sort:**
-- O(n log n)
+- $O(n\log(n))$
 - Divides unsorted lists into sub-lists and recursively merges them.
 ## **Specialised Algorithm:**
 ### **Dijkstra's Shortest Path Algorithm:**

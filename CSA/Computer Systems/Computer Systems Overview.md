@@ -36,7 +36,7 @@ Machine code, using only binary digits, is challenging for humans to understand.
 
 Assembly language, created to simplify computer program development, employs mnemonics like ADD and MOV instead of machine code's binary instructions. This results in more concise and less error-prone code, with a direct 1-to-1 correlation between assembly language and machine code instructions.
 
-High-level languages, Ex. C#, Java, Pascal, Python, and VB.Net:
+*High-level languages Ex. C#, Java, Pascal, Python, and VB
 
 High-level languages, unlike low-level ones, are platform-independent but require compilation or interpretation to machine code before execution. They use English instructions and mathematical symbols, making them more human-friendly and easier to debug. Built-in functions save programming time, and features like named variables enhance debuggability. Imperative high-level languages dictate task completion instructions, contrasting with declarative programming.
 
