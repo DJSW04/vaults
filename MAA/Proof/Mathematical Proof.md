@@ -23,8 +23,6 @@ if $n$ is EVEN, then $n-1$ is ODD. Hence:
 $$\quad n \times\ (n-1) \Rightarrow EVEN \times\ ODD = EVEN$$
 Conclusion:
 $$\therefore \ n^{2}-n \ \text{is even for all values of} \ n$$
-
----
 ### $Ex.2$
 $$
 \begin{gathered}
