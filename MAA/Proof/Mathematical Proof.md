@@ -46,8 +46,7 @@ y=k(9k-8)
 ```
 From the graph, we see that when $\ k(9k-8)<0,\ 0<k<\frac{8}{9}$
 
-$$
-When \ k = 0, \\
+$$ When \ k = 0: \\
 \begin{align} \quad
 (0)x^{2}+3(0){x}+2=0 \\
 2=0
