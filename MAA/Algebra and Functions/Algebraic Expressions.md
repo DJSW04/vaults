@@ -1,6 +1,6 @@
-#algebra_functions
+[#algebra_functions
 
-## Index Laws 
+# Index Laws 
 $$
 \begin{align}
 a^{c} \times\ a^{d} = a^{c+d{}} \\
@@ -9,7 +9,7 @@ a^{c} \div\ a^{d} = a^{c-d} \\
 (ab)^{c} = a^{c} \ b^{c}
 \end{align}
 $$
-### Negative and Fractional Indices
+# Negative and Fractional Indices
 $$
 \begin{align}
 a^{0} = 1 \\
@@ -18,7 +18,7 @@ a^{\frac{1}{c}} = \sqrt[\leftroot{5} c]{a} \\
 a^{\frac{c}{d}} = \sqrt[\leftroot{5} d]{a^{c}}
 \end{align}
 $$
-### Surds and Rationalising Denominators
+# Surds and Rationalising Denominators
 $$
 \begin{align}
 \sqrt{ab}= \sqrt{a} \times\ \sqrt{b} \\
