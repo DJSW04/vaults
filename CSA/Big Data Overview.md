@@ -6,7 +6,7 @@ _**PRINCIPLES OF FBM**_
 1. Raw data stored as atomic facts
 2. Facts capture one single piece of information
 3. Facts are immutable and eternally true (due to timestamp)
-4. Each is identifiable so quering can identify duplicates
+4. Each is identifiable so querying can identify duplicates
 
 **Advantages**
 - Simplicity (NO INDEXING NEEDED)
@@ -15,7 +15,7 @@ _**PRINCIPLES OF FBM**_
 - Immutable facts means errors are easy to correct by returning to earlier ‘good’ facts
 - Historical queries easy to run as facts are immutable
 ---
-**BIG DATA & FUNCTIONAL PROGRAMMING**
+**BIG DATA & [[Functional Programming Overview|FUNCTIONAL PROGRAMMING]]**
 
 >when data volumes are so large the processing of the datasets must be distrusted across more than one machine which can present unique problems when analysing it using traditional programming methods. functional programming is one solution
 
