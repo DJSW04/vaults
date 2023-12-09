@@ -44,6 +44,18 @@ $y=k(9k-8)$
 ```desmos-graph
 y=k(9k-8)
 ```
-$$\text{from the graph  when} \ k(9k-8)<0,\ 0<k<\frac{8}{9}$$
+From the graph, we see that when $\ k(9k-8)<0,\ 0<k<\frac{8}{9}$
+
+$$
+When \ k = 0, \\
+\begin{align} \quad
+(0)x^{2}+3(0){x}+2=0 \\
+2=0
+\end{align}
+$$
+
+This is impossible, which means there is no real roots when $k=0$
+Hence, combining $0<k<\frac{8}{9}$ and $k=0$ gives $0 \le k < \frac{8}{9}$
+in conclusion, k satisfies the inequality $0 \le\ k < \frac{8}{9}$
 
 ---
