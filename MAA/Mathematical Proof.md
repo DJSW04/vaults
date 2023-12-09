@@ -55,4 +55,15 @@ This is impossible, which means there is no real roots when $k=0$
 Hence, combining $0<k<\frac{8}{9}$ and $k=0$ gives $0 \le k < \frac{8}{9}$
 in conclusion, k satisfies the inequality $0 \le\ k < \frac{8}{9}$
 
+### $Ex.3$
+$$\text{Prove that} \ (3x+2)(x-5)(x+7)\equiv3x^{3}+8x^{2}-101x-70$$
+Expand Brackets
+$$
+\begin{align}
+(3x+2)(x^{2}+2x-35)\equiv3x^{3}+8x^{2}-101x-70 \\
+3x^{3}+6x^{2}-105x+2x^{2}+4x-70\equiv3x^{3}+8x^{2}-101x-70 \\
+3x^{3}+8x^{2}-101x-70\equiv3x^{3}+8x^{2}-101x-70
+\end{align}
+$$
+
 ---
