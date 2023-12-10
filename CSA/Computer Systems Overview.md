@@ -7,4 +7,13 @@
 
 # [[Classification of programming languages]]
 1. **Classification of programming languages**
-2. **Types of program translator**
+
+# [[Types of program translator]]
+1. **Types of program translator**
+
+# [[Logic Gates]]
+1. **Logic Gates**
+
+
+# [[Boolean Algebra]]
+1. **Using Boolean Algebra**
