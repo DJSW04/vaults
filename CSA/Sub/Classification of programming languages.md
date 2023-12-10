@@ -1,5 +1,15 @@
 [[Computer Systems Overview]]
 # Classification of programming languages
+---
+- [ ] *Show awareness of the development of types of programming languages and their classification into low-and high-level languages.*
+- [ ] *Know that low-level languages are considered to be:*
+	- machine-code
+	- assembly language.
+- [ ] *Know that high-level languages include imperative high-level language.*
+- [ ] *Describe machine-code language and assembly language.*
+- [ ] *Understand the advantages and disadvantages of machine-code and assembly language programming compared with high-level language programming.*
+- [ ] *Explain the term ‘imperative high-level language’ and its relationship to low-level languages.*
+---
 >Programs in low-level languages are specific to the type of processor they are written for and directly affect the computer’s processor.
 
 There are two categories of low-level language: machine code and assembly language:
