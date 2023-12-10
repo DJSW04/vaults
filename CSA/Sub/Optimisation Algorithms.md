@@ -1,3 +1,4 @@
+[[Algorithms Overview]]
 # Dijkstra’s shortest path algorithm
 ---
 - [ ] Understand and be able to trace Dijkstra’s shortest path algorithm. 

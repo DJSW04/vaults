@@ -1,3 +1,4 @@
+[[Algorithms Overview]]
 # Simple Tree-Traversal Algorithms
 ---
 - [ ] Be able to trace the tree-traversal algorithms:                                                                              • pre-order • post-order • in-order.

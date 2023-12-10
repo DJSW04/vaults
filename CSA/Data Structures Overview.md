@@ -1,4 +1,4 @@
-# 4.2 Fundamentals of Data Structures
+# Data Structures
 >DATA STRUCTURES organise/store data to be accessed/modified
 # **Data Structures:**
 **Arrays:** Stores finite data of the same datatype in a single identifier.

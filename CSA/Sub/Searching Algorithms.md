@@ -1,3 +1,4 @@
+[[Algorithms Overview]]
 # Linear Search
 ---
 - [ ] Know and be able to trace and analyse the complexity of the linear search algorithm.
@@ -5,7 +6,7 @@
 - $O(n)$
 - Sequentially checks each item until the target is found.
 - If the end is reached, the target is not in set.
-# Binary Search
+# [[Binary Search Algorithm|Binary Search]]
 ---
 - [ ] Know and be able to trace and analyse the time complexity of the binary search algorithm.
 ---

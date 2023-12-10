@@ -1,3 +1,6 @@
+[[Functional Programming Paradigm]]
+[[Lists in Functional Programming]]
+[[Writing Functional Programs]]
 
 **MAIN FEATURES OF FUNCTIONAL PROGRAMMING**
 - **Statements** written as a series of functions

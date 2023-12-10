@@ -1,4 +1,4 @@
-# 4.10 Fundamentals of Databases
+# Databases
 
 Databases never store more than 1 piece of data in a item. Items must be ordered in terms of their data type.
 
@@ -24,21 +24,25 @@ A Foreign Key is a primary key from another table that is used to link the two t
 
 | Name          | Description                                                                                                                                                                 | 
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Primary Key   | used to ensure data in the specific column is unique                                                                                                                        |     
-| Entity        | something in the real world represented in a database                                                                                                                       |     
-| Field         | a property or characteristic of an entity                                                                                                                                   |     
-| Record        | an instance of an entity                                                                                                                                                    |     
-| Foreign Key   | column or group of columns in a relational database table that provides a link between data in two tables; it uniquely identifies a record in the relational database table |     
-| Table         | Organised collection/storage of data                                                                                                                                        |
-| Normalisation | process of converting data into a relational database following a series of rules                                                                                           |                                                                                                                                                                            |     |     |
+| **Primary Key**   | used to ensure data in the specific column is unique                                                                                                                        |     
+| **Entity**        | something in the real world represented in a database                                                                                                                       |     
+| **Field**         | a property or characteristic of an entity                                                                                                                                   |     
+| **Record**        | an instance of an entity                                                                                                                                                    |     
+| **Foreign Key**   | column or group of columns in a relational database table that provides a link between data in two tables; it uniquely identifies a record in the relational database table |     
+| **Table**         | Organised collection/storage of data                                                                                                                                        |
+| **Normalisation** | process of converting data into a relational database following a series of rules                                                                                           |                                                                                                                                                                            |     |     |
 
 
 ### EXAM DEFINITIONS
-**RELATIONAL DATABASE:** An organised collection of related data, stored in tables linked by shared attributes (primary & foreign key) 
-**ENTITY:** an object about which data is stored
-**FIELD:** A Category of information about an entity 
-**RECORD:** Instance of an entity 
-**PRIMARY KEY:** Field / Attribute that unique identifies a record (1) FOREIGN KEY: Field / Attribute that refers to a primary key from another table (1)`
+
+| EXAM DEFINITIONS                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| **RELATIONAL DATABASE:** An organised collection of related data, stored in tables linked by shared attributes (primary & foreign key) |
+| **ENTITY:** an object about which data is stored                                                                                       |
+| **FIELD:** A Category of information about an entity                                                                                   |
+| **RECORD:** Instance of an entity                                                                                                      |
+| **PRIMARY KEY:** Field / Attribute that unique identifies a record (1) FOREIGN KEY: Field / Attribute that refers to a primary key from another table (1)                                                                                                                                       |
+`
 
 *MULTI JOIN*:
 ```sql
