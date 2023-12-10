@@ -1,5 +1,5 @@
 [[Big Data Overview]]
-# Big Data
+
 ---
 - [ ] *Know that 'Big Data' is a catch-all term for data that won't fit the usual containers. Big Data can be described in terms of:*
 	• **volume** - too big to fit into a single server 
