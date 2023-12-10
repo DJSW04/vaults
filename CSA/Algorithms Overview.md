@@ -1,15 +1,15 @@
-# **[[Graph-Traversal]]**
+# [[Graph-Traversal]]
 1. **Simple Graph-Traversal Algorithms**
-# **[[Tree-Traversal]]**
+# [[Tree-Traversal]]
 1. **Simple Tree-Traversal Algorithms**
-# **[[Reverse Polish|Reverse Polish Notation (RPN) Importance:]]**
+# [[Reverse Polish]]
 1. **Infix Transformations**
-# **[[Searching Algorithms]]:**
+# [[Searching Algorithms]]:
 1. **Linear Search**
 2. **Binary Search**
 3. **Binary Tree Search**
-## **[[Sorting Algorithms]]:**
+# [[Sorting Algorithms]]:
 1. **Bubble Sort**
 2. **Merge Sort**
-## **[[Optimisation Algorithms]]**
+# [[Optimisation Algorithms]]
 1. **Dijkstra's Shortest Path Algorithm:**
