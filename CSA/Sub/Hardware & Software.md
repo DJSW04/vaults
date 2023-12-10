@@ -1,10 +1,15 @@
 [[Computer Systems Overview]]
 # Relationship between hardware and software
+- [ ] *Understand the relationship between hardware and software and be able to define the terms: • hardware • software.*
+---
 **Hardware** - Any physical parts of a computer and related devices
 **Internal Hardware** - Motherboards / Hard drives / RAM
 **External Hardware** - Monitors / Keyboards / Mouse / Printers / Web Cam
 **Software** - Computer Programs (non-physical)
 # Classification of software
+- [ ] *Explain what is meant by: • system software • application software.*
+- [ ] *Understand the need for, and attributes of, different types of software.*
+---
 **System Software** -System software operates, controls and maintains the computer and its components. Ex. OS, Utility Programs (Firewalls/Drivers/Virus Checkers), Libraries, Translators (Compilers/Assemblers/Interpreters)
 
 **Application Software** - Programs that complete a specific task for the user.

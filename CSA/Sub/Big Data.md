@@ -1,21 +1,39 @@
-**FACT BASED MODELLING**
+[[Big Data Overview]]
+# Big Data
+---
+- [ ] *Know that 'Big Data' is a catch-all term for data that won't fit the usual containers. Big Data can be described in terms of:*
+	• **volume** - too big to fit into a single server 
+	• **velocity** - streaming data, milliseconds to seconds to respond 
+	• **variety** - data in many forms such as structured, unstructured, text, multimedia.
+- [ ] *Know that when data sizes are so big as not to fit on to a single server:* 
+	• the processing must be distributed across more than one machine 
+	• functional programming is a solution, because it makes it easier to write correct and efficient distributed code.
+- [ ] *Know what features of functional programming make it easier to write:*
+	• correct code 
+	• code that can be distributed to run across more than one server.
+- [ ] *Be familiar with the:* 
+	• fact-based model for representing data 
+	• graph schema for capturing the structure of the dataset 
+	• nodes, edges and properties in graph schema.
+---
+## **FACT BASED MODELLING**
 
 > Fact based modelling deconstructs data into fundamental units called ‘facts’ and adds them into a master dataset. The master dataset is an ever-growing list of immutable atomic facts
 
-_**PRINCIPLES OF FBM**_
+**PRINCIPLES OF FBM**
 1. Raw data stored as atomic facts
 2. Facts capture one single piece of information
 3. Facts are immutable and eternally true (due to timestamp)
 4. Each is identifiable so querying can identify duplicates
 
-**Advantages**
+_**Advantages**_
 - Simplicity (NO INDEXING NEEDED)
 - New items are appended to the growing dataset
 - Data is true forever
 - Immutable facts means errors are easy to correct by returning to earlier ‘good’ facts
 - Historical queries easy to run as facts are immutable
----
-**BIG DATA & [[Functional Programming Overview|FUNCTIONAL PROGRAMMING]]**
+
+## **BIG DATA & [[Functional Programming Overview|FUNCTIONAL PROGRAMMING]]**
 
 >when data volumes are so large the processing of the datasets must be distrusted across more than one machine which can present unique problems when analysing it using traditional programming methods. functional programming is one solution
 

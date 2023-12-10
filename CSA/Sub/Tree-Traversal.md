@@ -1,8 +1,11 @@
 [[Algorithms Overview]]
 # Simple Tree-Traversal Algorithms
 ---
-- [ ] Be able to trace the tree-traversal algorithms:                                                                              • pre-order • post-order • in-order.
- - [ ] Be able to describe uses of tree-traversal algorithms
+- [ ] *Be able to trace the tree-traversal algorithms:*
+	• **pre-order** 
+	• **post-order** 
+	• **in-order**
+ - [ ] *Be able to describe uses of tree-traversal algorithms*
 ---
 **Pre-Order:** Visit root, Traverse left sub-tree, Traverse right sub-tree
 - Use: Copying a tree (can be performed on any tree).
