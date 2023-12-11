@@ -1,3 +1,38 @@
+# [[Abstraction and Automation]]
+1. **Problem-solving**
+2. **Following and writing algorithms**
+3. **Abstraction**
+4. **Information hiding**
+5. **Procedural abstraction**
+6. **Functional abstraction**
+7. **Data abstraction**
+8. **Problem abstraction/reduction**
+9. **Decomposition**
+10. **Composition**
+11. **Automation**
+
+# [[Regular languages]]
+1. **Finite state machines (FSMs) with and without output**
+2. **Maths for regular expressions**
+3. **Regular expressions**
+4. **Regular language**
+
+# [[Context-free languages]]
+1. **Backus-Naur Form (BNF)/syntax diagrams**
+
+# [[Classification of algorithms]]
+1. **Comparing algorithms**
+2. **Maths for understanding Big-0 notation**
+3. **Order of complexity**
+4. **Limits of computation**
+5. **Classification of algorithmic problems**
+6. **Computable and non-computable problems**
+7. **Halting problem**
+
+# [[A model of computation]]
+1. **Turing machine**
+
+
 >**Following and writing algorithms:** an algorithm is a sequence of steps necessary to accomplish a certain task.
 
 **Abstraction:** the process of separating ideas from reality.

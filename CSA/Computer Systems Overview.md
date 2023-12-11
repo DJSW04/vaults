@@ -14,6 +14,5 @@
 # [[Logic Gates]]
 1. **Logic Gates**
 
-
 # [[Boolean Algebra]]
 1. **Using Boolean Algebra**

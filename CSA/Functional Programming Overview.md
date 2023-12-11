@@ -8,7 +8,3 @@
 1. **Functional language programs**
 # [[Lists in Functional Programming]]
 1. **List processing**
-
-
-
----
