@@ -1,3 +1,32 @@
+# [[Particles]]
+1. **Constituents of the atom**
+2. **Stable and unstable nuclei**
+3. **Particles, antiparticles and photons**
+4. **Particle interactions**
+5. **Classification of particles**
+6. **Quarks and antiquarks**
+7. **Applications of conservation laws**
+
+# [[Electromagnetic radiation and quantum phenomena]]
+1. **The photoelectric effect**
+2. **Collisions of electrons with atoms**
+3. **Energy levels and photon emission**
+4. **Wave-particle duality**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Definitions                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Isotopes:** Atoms with same protons but different neutrons. Becomes unstable due to factors like nucleus size, proton deficiency/richness, or excess energy. |
