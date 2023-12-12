@@ -16,4 +16,3 @@
 # [[External hardware devices]]
 1. **Input and output devices**
 2. **Secondary storage devices**
-3. 
