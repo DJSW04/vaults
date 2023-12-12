@@ -71,3 +71,4 @@
 >The Halting Problem states that there's no algorithm to determine if any given program will halt or run indefinitely.
 
 >A Turing Machine is an abstract mathematical model of computation. It consists of a tape with cells, a read/write head, and a set of rules for transitioning between states. It can simulate any algorithm and is pivotal in understanding the limits of computation.
+
