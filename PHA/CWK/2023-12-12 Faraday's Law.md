@@ -1,5 +1,5 @@
 [[Magnetic Fields]]
-
+[Faraday's law of induction - Wikipedia](https://en.wikipedia.org/wiki/Faraday's_law_of_induction)
 # Faraday's Law of Electromagnetic Induction
 $$\epsilon=\frac{-N\triangle\phi}{\triangle t}$$
 **The induced EMF, $\epsilon$ in a coil with $N$ turns is equal to the rate of change of flux linkage through the coil. $\frac{\triangle\phi}{\triangle t}$**
