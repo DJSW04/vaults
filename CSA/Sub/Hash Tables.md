@@ -1,4 +1,4 @@
-[[Data Structures Overview]]
+[[Data Structures]]
 
 ---
 - [ ] *Be familiar with the concept of a hash table and its uses.*

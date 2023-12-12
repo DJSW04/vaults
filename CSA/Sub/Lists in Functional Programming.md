@@ -1,4 +1,4 @@
-[[Functional Programming Overview]]
+[[Functional Programming]]
 # List Processing
 ---
 - [ ] *Be familiar with representing a list as a concatenation of a head and a tail.* 

@@ -1,4 +1,4 @@
-[[Computer Systems Overview]]
+[[Computer Systems]]
 # Types of program translator
 >For a computer's processor to execute a program, it must be in machine code. This requires translation of programs written in assembly language or high-level languages into machine code before execution.
 

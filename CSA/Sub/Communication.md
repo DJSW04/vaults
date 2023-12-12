@@ -1,4 +1,4 @@
-[[Communication and Networking Overview]]
+[[Communication and Networking]]
 # Communication Methods
 ---
 - [ ] *Define serial and parallel transmission methods and discuss the advantages of serial over parallel transmission.* 

@@ -1,4 +1,4 @@
-[[Computer Systems Overview]]
+[[Computer Systems]]
 # Relationship between hardware and software
 ---
 - [ ] *Understand the relationship between hardware and software and be able to define the terms:* 

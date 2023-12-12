@@ -1,4 +1,4 @@
-[[Databases Overview]]
+[[Main/Databases]]
 # Conceptual data models and entity relationship modelling
 ---
 - [ ] *Produce a data model from given data requirements for a simple scenario involving multiple entities.*

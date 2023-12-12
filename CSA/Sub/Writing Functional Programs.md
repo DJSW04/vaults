@@ -1,4 +1,4 @@
-[[Functional Programming Overview]]
+[[Functional Programming]]
 # Functional Languages Programs
 ---
 - [ ] *Show experience of constructing simple programs in a functional programming language*

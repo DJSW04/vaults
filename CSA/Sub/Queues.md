@@ -1,4 +1,4 @@
-[[Data Structures Overview]]
+[[Data Structures]]
 
 ---
 - [ ] *Be able to describe and apply the following to linear queues, circular queues and priority queues:

@@ -1,4 +1,4 @@
-[[Data Structures Overview]]
+[[Data Structures]]
 
 ---
 - [ ] *Be aware of a graph as a data structure used to represent more complex relationships.*

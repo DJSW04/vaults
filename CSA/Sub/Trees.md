@@ -1,4 +1,4 @@
-[[Data Structures Overview]]
+[[Data Structures]]
 
 ---
 - [ ] *Know that a tree is a connected, undirected graph with no cycles.*

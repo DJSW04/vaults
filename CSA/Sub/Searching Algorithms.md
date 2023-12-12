@@ -1,4 +1,4 @@
-[[Algorithms Overview]]
+[[Algorithms]]
 # Linear Search
 ---
 - [ ] *Know and be able to trace and analyse the complexity of the linear search algorithm.*

@@ -1,4 +1,4 @@
-[[Functional Programming Overview]]
+[[Functional Programming]]
 
 **MAIN FEATURES OF FUNCTIONAL PROGRAMMING**
 - **Statements** written as a series of functions

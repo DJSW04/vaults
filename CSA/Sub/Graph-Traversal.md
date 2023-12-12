@@ -1,4 +1,4 @@
-[[Algorithms Overview]]
+[[Algorithms]]
 # Simple Graph-Traversal Algorithms
 ---
  - [ ] *Be able to trace breadth-first and depth-first search algorithms and describe typical applications of both.*

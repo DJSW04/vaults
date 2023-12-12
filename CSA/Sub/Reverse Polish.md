@@ -1,4 +1,4 @@
-[[Algorithms Overview]]
+[[Algorithms]]
 # Infix Transformations
 ---
 - [ ] *Be able to convert simple expressions in infix form to Reverse Polish notation (RPN) form and vice versa.* 

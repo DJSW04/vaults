@@ -1,4 +1,4 @@
-[[Computer Organisation and Architecture Overview]]
+[[Computer Organisation and Architecture]]
 # The meaning of the stored program concept
 ---
 - [ ] *Be able to describe the stored program concept: machine code instructions stored in main memory are fetched and executed serially by a processor that performs arithmetic and logical operations.*

@@ -1,4 +1,4 @@
-[[Computer Organisation and Architecture Overview]]
+[[Computer Organisation and Architecture]]
 # Internal hardware components of a computer
 ---
 - [ ] *Have an understanding and knowledge of the basic internal components of a computer system.*

@@ -1,4 +1,4 @@
-[[Big Data Overview]]
+[[Main/Big Data]]
 
 ---
 - [ ] *Know that 'Big Data' is a catch-all term for data that won't fit the usual containers. Big Data can be described in terms of:*
@@ -33,7 +33,7 @@ _**Advantages**_
 - Immutable facts means errors are easy to correct by returning to earlier ‘good’ facts
 - Historical queries easy to run as facts are immutable
 
-## **BIG DATA & [[Functional Programming Overview|FUNCTIONAL PROGRAMMING]]**
+## **BIG DATA & [[Functional Programming|FUNCTIONAL PROGRAMMING]]**
 
 >when data volumes are so large the processing of the datasets must be distrusted across more than one machine which can present unique problems when analysing it using traditional programming methods. functional programming is one solution
 

@@ -1,7 +1,7 @@
 ---
 
 ---
-[[Data Structures Overview]]
+[[Data Structures]]
 # Data Structures
 ---
 - [ ] *Be familiar with the concept of data structures.*
