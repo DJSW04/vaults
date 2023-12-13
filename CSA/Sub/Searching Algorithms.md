@@ -1,5 +1,5 @@
 [[Algorithms]]
-# Linear Search
+# [[Linear Search|Linear Search Algorithm]]
 ---
 - [ ] *Know and be able to trace and analyse the complexity of the linear search algorithm.*
 ---
