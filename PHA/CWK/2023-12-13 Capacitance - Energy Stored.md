@@ -2,7 +2,7 @@
 [Capacitance - Wikipedia](https://en.wikipedia.org/wiki/Capacitance)
 
 ---
-1. The symbol for a capacitor
+1. The symbol for a capacitor  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Types_of_capacitor.svg/230px-Types_of_capacitor.svg.png)
 2. What 2 things does a capacitor store?
 	Charge and Energy
@@ -24,6 +24,13 @@ y=0.0262008x-0.00812
 ---
 **What happens during charging?**
 - During charging, electrons are forced onto one parallel plate from the other
-- Which is going to require more energy, pushing on the first electrons or the final electron? - First
-- Energy is stored as 
-- Energy stored = work done in moving the charge = 
+- Which is going to require more energy, pushing on the first electrons or the final electron? - last
+- Energy is stored as Electric Potential Energy
+- Energy stored = work done in moving the charge = Voltage $\times$ charge ($E=vQ$)
+---
+
+| time | V   | Q=CV | I =V/R | dQ=Idt | Q=Q-dq | V=Q/C |
+| ---- | --- | ---- | ------ | ------ | ------ | ----- |
+| 0    | 6   | 1    | 1      | 5      | 5      | 5     |
+| 1     |5    |      |        |        |        |       |
+
