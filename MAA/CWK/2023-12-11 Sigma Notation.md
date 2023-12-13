@@ -1,3 +1,4 @@
+#sequences_series
 > Arithmetic series have no power (find d through subtraction)
 > Geometric series have powers (find d via multiplication difference)
 # $Ex.1$
