@@ -4,7 +4,7 @@
 # [[Stored Program Concept]]
 1. **The meaning of the stored program concept**
 
-# [[Structure and role of the processor and its components1]]
+# **[[Structure and role of the processor and its components]]
 1. **The processor and its components**
 2. **The Fetch-Execute cycle and the role of registers within it**
 3. **The processor instruction set**
