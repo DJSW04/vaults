@@ -50,7 +50,7 @@ The sender and receiver must use the same Baud rate and need only synchronise th
 **Bit rate**: the number of bits transmitted per unit time. (bps)
 **Bandwidth**: the range of frequencies at which data can be transmitted through a channel, measured in Hz.
 **Latency**: the time delay between the transmitter sending the data and the recipient receiving the data.
-**Protocol** A set of rules.
+**Protocol** A set of rules used for communication.
 
 A communication system’s bit rate is equal to its Baud rate multiplied by the number of bits per signal in the communication medium.
 $$Bit \ rate = Baud \ rate \times \ № \ of \ bits \ per \ signal$$
