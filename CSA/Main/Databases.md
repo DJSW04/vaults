@@ -1,4 +1,4 @@
-# [[Sub/Databases]]
+# [[Sub/Databases|Databases]]
 1. **Conceptual data models and entity relationship modelling**
 2. **Relational databases**
 3. **Database design and normalisation techniques**
