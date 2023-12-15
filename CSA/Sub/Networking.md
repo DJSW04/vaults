@@ -43,6 +43,15 @@ Peer-to-peer networks eliminate the need for a central server, with each client 
 #### Advantages and disadvantages of P2P
 [-] all clients providing services must be operational for the network to function. If the client managing storage is off or malfunctioning, network users can't access their files.
 [+] peer-to-peer networking is more cost-effective than client-server networking as it doesn't require a powerful server. Additionally, peer-to-peer networks are simpler to set up and maintain than their client-server counterparts.
+
+##### Use of P2P
+Large file-sharing networks and multimedia providers use peer-to-peer networking to provide high-performance services without the requirement for a server.
+
+### Client-Server Networking 
+In a client-server network, central servers provide services to the clients. These servers, often more powerful than the clients, are connected to the network like clients. Clients request services from the servers, which then provide the requested service. These services can include file storage, email management, user account management, and print queue management.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/250px-Client-server-model.svg.png)
+##### Use of Client-Server Networking
+Most schools, colleges and businesses use client-server networks to allow for central management of clients on the network. This can improve security but requires a fair degree of expertise to set up and manage.
 # Wireless Networking
 ---
 - [ ] *Explain the purpose of Wi-Fi* 
@@ -51,3 +60,5 @@ Peer-to-peer networks eliminate the need for a central server, with each client 
 - [ ] *Explain the wireless protocol Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) with and without Request to Send/Clear to Send (RTS/CTS)* 
 - [ ] *Be familiar with the purpose of Service Set Identifier (SSID)*
 ---
+Wireless networks enable clients to communicate within a network without physical connection. They require a wireless access point, which connects to a wired network like any other client, and a wireless network adapter in the device connecting to the wireless network.
+
