@@ -1,4 +1,4 @@
-1. Understanding [[Originality & Creativity]]
+1. Understanding [[Originality]]
 > How can you define/describe uniqueness/originality/creativity
 > How they interlink with each-other?
 2. Understanding [[Artificial Intelligence]]
