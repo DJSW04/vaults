@@ -14,7 +14,7 @@
 - [ ] *Understand the concept of addressable memory*
 ---
 ### Processor
-A computer’s processor executes program instructions in order to run applications. further details within [[Content/Structure and role of the processor and its components]].
+A computer’s processor executes program instructions in order to run applications. further details within [[Structure and role of the processor and its components]].
 
 ### Main Memory
 A computer uses its main memory (RAM/ROM), to store program instructions and frequently used data to execute instructions quickly. (Primary Storage faster than Secondary Storage)
